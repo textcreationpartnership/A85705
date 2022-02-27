@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication or justification of John Griffith, Esq. Against the horrid, malitious, and unconscionable verdict of the coroners iury in Cheshire : vvhich was packt by the means of that pocky, rotten, lying, cowardly, and most perfidious knave, Sir Hugh Caulveley Knight, onely to vent his inveterate hatred and malice against me.</title>
+            <author>Griffith, John, fl. 1648-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85705</idno>
+            <idno type="STC">Wing G2008</idno>
+            <idno type="STC">Thomason E435_44</idno>
+            <idno type="STC">ESTC R20797</idno>
+            <idno type="EEBO-CITATION">99866983</idno>
+            <idno type="PROQUEST">99866983</idno>
+            <idno type="VID">161603</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161603)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E435[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication or justification of John Griffith, Esq. Against the horrid, malitious, and unconscionable verdict of the coroners iury in Cheshire : vvhich was packt by the means of that pocky, rotten, lying, cowardly, and most perfidious knave, Sir Hugh Caulveley Knight, onely to vent his inveterate hatred and malice against me.</title>
+                  <author>Griffith, John, fl. 1648-1659.</author>
+                  <author>Griffith, John, 1622?-1700, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On the death of William Dod, servant to Sir Hugh Calveley.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Sometimes attributed to John Griffith (1622?-1700), the general Baptist minister.</note>
+                  <note>Imperfect: staining.</note>
+                  <note>Annotation on Thomason copy: "Jan: 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Calveley, Hugh, --  Sir, 1612 or 13-1648.</term>
+               <term>Dod, William.</term>
+               <term>Griffith, John, fl. 1648-1659.</term>
+               <term>False testimony --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161603:1" rendition="simple:additions"/>
+            <p>A VINDICATION OR IVSTIFICATION OF <hi>JOHN GRIFFITH,</hi> 
+               <abbr>Eſq</abbr> AGAINST The horrid, malitious, and unconſcionable Verdict of the Coroners Iury in <hi>Cheſhire:</hi>
+            </p>
+            <p>Which was packt by the means of that Pocky, Rotten, Lying, Cowardly, and moſt perfidious Knave, Sir <hi>HVGH CAVLVELEY</hi> Knight, onely to vent his inveterate hatred and malice againſt me.</p>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161603:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:161603:2"/>
+            <head>A TRVE RELATION of the Buſineſſe that happened betwixt <hi>John Griffith</hi> Eſquire, and one <hi>Wil<g ref="char:EOLhyphen"/>liam Dod,</hi> Servant to Sir <hi>Hugh Caulveley,</hi> Knight, in Cheſhire with the reaſons that occaſioned the difference, and the manner and acci<g ref="char:EOLhyphen"/>dent of his Death.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He buſines begun thus<g ref="char:punc">▪</g> It was my fortune coming from London to Cheſter, to go with ſome company to viſit Sir <hi>Hugh Caulveley</hi> who was then priſoner for debt in the Caſtle of Cheſter: he was pleaſed to uſe me extream civilly, and to invite me the next day to dinner, where I received a great entertainment, and many ex<g ref="char:EOLhyphen"/>preſſions of love, and friendſhip from him; and after few days, I went to my own houſe into Carnarvonſhire, where I ſtayed two or three moneths, but before I returned out of Wales, Sir <hi>Hugh Caulveley</hi> was re<g ref="char:EOLhyphen"/>leaſed out of priſon, and come hom to his owne houſe in Cheſhire, called Lea Hal; where I going to viſit him, was received with a great deal of kindnes &amp; after I had ſtayed with him a fortnight, I invited him to my houſe into Carnarvo ſhire, where he ſtayed with me a week, &amp; before our return back into Cheſhire, it pleaſed God to viſit his houſe with the flux, and diverſe of his ſervants died of it, &amp; one of mine, that caught the diſeaſe at his houſe: He at his return was pleaſed to ſay, that God laid this judgment upon him, becauſe he kept a Cook that was a Papiſt, &amp; ſaid that he ſhould not thrive, as long as he kept him: Whereupon I perſwaded him to turn him away, which he did accordingly: And this diſeaſe driving him from his houſe, I went back into Wales to ſettle my eſtate, as well as theſe diſtracted times would permit me, &amp; there I ſtayed a matter of 2 months; then I returned back into <hi>England</hi> again, thinking to viſit Sir <hi>Hugh Caulveley,</hi> and the night that I was to come thither, being earneſtly invited by him to doe ſo: An hower or two before I came to the houſe, a Boy it ſeemed died of the Plague, ſo as before I came thither he &amp; moſt of his family were gon, but left word where I ſhould find them; ſo I went to them that night, and aſſoon as I had ſpoken to him, I returned &amp; lodged at his houſe, thinking that there was no danger in the houſe; for the Boy that died had bin ſick above half
+<pb n="2" facs="tcp:161603:3"/>
+a year, ſo that I did believe that he rather died of a Conſumption then of the Plague; ſo the next day I waited on Sir <hi>Hugh Caulveley</hi> again, and after two or three daies he and his Family did return back again to his own houſe, he being of the ſame opinion that I was, that is that the Boy rather died of a Conſumption, then of the Plague: At that time I ſtayed with him five or ſix dayes, and no ſickneſſe did appear, nor was there any body ſick in the houſe: but during my ſtay there, I ſaw ſome ſervants whoſe faces I had not ſeen before, and one of them was this man, who they called <hi>William Dod,</hi> I asked Sir <hi>Hugh</hi> what he was, he anſwered me I have taken him to be my Clark, for my other Clark died of the Flux, with all Sir <hi>Hugh Caulveley</hi> told me that he was an excellent Clark, but that he was a rank Papiſt. I made him this anſwer, I wonder you will keep him then, knowing how unfortunate Papiſts have been to you; it is true ſaid he, but I muſt keep him a while until I can provide my ſelfe with another. I made him this anſwer, I will ſee Sir, if you pleſe, if I can help you to one. I pray you do ſo ſaid he, for this man is not only Papiſt, but has been moſt active man all this war againſt the Parliament, both in <hi>Biſton Caſtle,</hi> and divers other places; hearing this, I replied to Sir <hi>Hugh,</hi> Sir, the ſooner you part with him the better it will be, for feare leaſt the Committee comes to know that you have entertained ſo notorious a Papiſt, and prejudice you in your Compoſition, having not as yet fi<g ref="char:EOLhyphen"/>niſhed it: indeed ſaid he that is one main reaſon why I am ſo willing to part with him, beſides I am reſolved never to keep Papiſts, for they alwais bring me ill luck, and indeed as he ſaid, ſo it happened, for within two or three daies after I was gone from his houſe, the plague brake out again, and divers fell ſick of it, four or five died of it, ſome others recovered, and thoſe that had been in Cabbins, and not ſick at all, after a moneths time or there abouts, he gave them leave to goe to another houſe that he had called <hi>Sayton,</hi> and there in a low room to continue, they being in number five, three men, and two maids, and he, his Lady, and ſome few ſervants went firſt into Lancaſhire, and from thence Sir <hi>Hugh Caulveley</hi> went to <hi>York</hi> for to take Phyſick. In the time of his abſence I having little recreation but courſing, made a match to run a Grey-hound of mine, againſt a dog of <hi>William Smiths,</hi> who lived not far from this houſe of Sir <hi>Hugh Caulveleys,</hi> called <hi>Sayton,</hi> and there being fine Champion fields within a mile of that place, we appointed to meet there with our gray hounds, which we did accordingly, and after that we had beaten all the day for hares, and had decided our match, I being ſomething hungry, ſent one of my ſervants to Sir <hi>Hugh Caulveleys</hi> houſe to <hi>Sayton</hi> to deſire the maids to provide me two or three diſhes of meat, which they did accordingly, nor indeed durſt I go into any <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le-houſe for to eate any thing, for fear of the ſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es; for <hi>Cheſter</hi> was then cruelly infected with the plague, and the people came dayly out of <hi>Cheſter</hi> into thoſe parts, being but two miles of <hi>Cheſter;</hi> beſides divers houſes in the Country were infected, ſo that a man could not certainely know where to goe, without danger. So according to my ap<g ref="char:EOLhyphen"/>poyntment I tooke one Mr <hi>Powel,</hi> and two or three honeſt Country <hi>Farmers</hi> along with me, for to eat that meat which I had beſpok, &amp; before we had done our ſupper, (for it was late before we came thither) it fell a raining ſo hard, and grew ſo dark, that it was impoſſible for me to go home that night, being a foot, and having four long durty miles (as any was in <hi>England</hi>) to the houſe where I lived at. Beſides I had the river of <hi>Dee</hi> to croſſe over; ſo I and my company reſolved to ſit and talke all night by the fire ſide, being five or ſix in company, beſides the ſervants of the houſe, and whilſt we were ſitting by the fire, coms in a kind of a Bayly of Sir <hi>Hugh Caulve<g ref="char:EOLhyphen"/>leyes,</hi> whoſe name is <hi>Richard Maddocks,</hi> who would need<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſent me with a dozen of
+<pb n="3" facs="tcp:161603:3"/>
+Ale, and did ſeem to bid me very welcome: After that, the Ale being drunk out, he went away and left me and my company together, where we ſtayed all night,, &amp; the next morning I paid the maids for the meat, and I and my company parted from Sir Hughs houſe together, and went every one of us home to our particular dwel<g ref="char:EOLhyphen"/>lings, thinking that no exceptions could bee taken at my being there, having ſo much company with me: but it ſeems within a day or two after, this <hi>Richard Mad<g ref="char:EOLhyphen"/>docks</hi> being drunk (as it is his conſtant cuſtome) came and upbraided the maides, ſaying thus to them: It is very fine; you think that my Maſter hath nothing to doe with his money, but for you to feaſt Prince <hi>Griffith</hi> withall. I can aſſure you when my Maſter knowes it, you will have little thanks for it: The maides made anſwer (as they ſent me word) that I had nothing but what I paid for, and that it was not any charge to Sir <hi>Hugh Caulveley</hi> at all, and that they did beleeve Sir <hi>Hugh</hi> would not be offended for any civill courteſie that they could doe me; ſo the buſineſſe ceaſed for a while, and afterwards Sir Hugh being come from York to his Mother in Laws houſe which is in Lancaſhire, he ſent over this <hi>Dod</hi> about ſome occaſion or other to his houſe into Cheſhire, where <hi>Maddocks</hi> and he contrived to make a difference be<g ref="char:EOLhyphen"/>twixt Sir <hi>Hugh Caulveley</hi> and my ſelfe, and at <hi>Dods</hi> returne backe to Sir <hi>Hugh</hi> into Lancaſhire, he happened to frame his ſtory ſo well for his owne advantage and my prejudice, that I having ſome hampers of cloaths at Sir Hughs houſe; I was deſired to ſend for them home, and this Maddock, had order to turne away the maides with this expreſſion, that Sir Hugh ſcorned to keep Maids, that ſhould keep open houſe, and a Bawdy houſe for me. This was the firſt palpable buſines wherin I diſcovered both their hatreds to me, though having given occaſion thereof to neither of them, more, then that I did perſwade Sir <hi>Hugh Caulveley</hi> once to turn away <hi>Dod</hi> (which I beleeve he heard of) and not out of any other malice to him, more then that hee was a Papiſt, and that I was loath that Sir Hugh Caulveley (being my friend as I thought then) ſhould ſuffer for entertaining ſo notorious a Papiſt, as he was known to be. It being reported by ſome that he was a Prieſt.</p>
+            <p>This was the onely exceptions Dod could take againſt me, untill I found out his roguery of endeavouring to ſet a difference betwixt Sir Hugh and my ſelfe, having no juſt ground for to do it, more then what his ſpleen and malice could in<g ref="char:EOLhyphen"/>vent, and indeed finding Dod and Maddocks wholly bent to make a difference be<g ref="char:EOLhyphen"/>twixt us; I muſt confeſſe I endeavoured what I could to croſſe their intentions, and to preſerve that friendſhip which formerly had been betwixt Sir <hi>Hugh Caulveley,</hi> and my ſelfe, and to that intent, I hearing that Sir Hugh was come out of Lancaſhire to his Siſters houſe called Lyne in Cheſhire, I went purpoſely to wait on him with an intent to inform him of the truth of the buſineſſe: and comming to ſalute him, I per<g ref="char:EOLhyphen"/>ceived him ſomething cooler in his expreſſions of kindneſſe unto me then formerly he had been: whereupon I told him, Sir I underſtand that <hi>Dod</hi> and <hi>Maddocks</hi> have abuſed us both, by informing you of a thing that is as falſe (as God is true.) Ther<g ref="char:EOLhyphen"/>fore I ſhall deſire you to ſend for Maddocks, for I heare that he is in this houſe, and I ſhall prove him a Rogue to his face, Maddocks was inſtantly called up into a Gal<g ref="char:EOLhyphen"/>lery, and in the preſence of Sir Hugh Caulveley, his Lady, and his ſiſter, Miſtris Lee; I told Maddocks, that I wondred extreamly at his baſeneſſe, having nothing to do<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but to invent lyes, for to ſet friends together by the eares: hee denyed that he had done it, although I knew the contr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, whereupon I told him, I warrant you will deny, that you ſay when you are drunke, that you care not ſix pence for your Maſter Sir Hugh Caulveleyes ſervice, and that you never got anything by him;
+<pb n="4" facs="tcp:161603:4"/>
+               <hi>Maddocks</hi> did not onely deny it, but withall replyed that what I ſaid was falſe<g ref="char:punc">▪</g> I made him no anſwer, but with my Cane I layd him over the Coxcombe, and ſo parted with him at that time; and preſently I went out of Miſtris <hi>Lees</hi> houſe to a Lodging that I had within a mile and a halfe of that place, and the next day I went towards my owne houſe near Cheſter; but by the way as I went home, I cal<g ref="char:EOLhyphen"/>led at a Town called Sayton, where moſt, if not all the Inhabitants of that towne are Sir <hi>Hugh Caulveleys</hi> tennants. I ſent for divers of them which I had formerly ſeen in <hi>Maddoks</hi> his company, and I asking them whether they never heard <hi>Maddoks</hi> rayle at his Maſter Sir <hi>Hugh Caulveley,</hi> they made anſwer, he is never drunk but he do<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h ſo, and then men moſt commonly ſpeak truth, and I wonder ſayd they that Sir <hi>Hugh</hi> will keep him, for <hi>Maddocks</hi> conſtantly ſayes hee cares not ſix pence for his ſervice, and that he never got anything under him. I made anſwer to them, honeſt friends will you juſtifie this under your hands, yes ſaid they, and upon our oaths too, whereupon I drew a note to that effect, and gave it them to ſubſcribe, which they did willingly: and as ſoon as I got the note ſigned, I preſently ſent it to Sir <hi>Hugh,</hi> and writ to him to this effect.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>SIr, <hi>Although you would not ſeem to give credit to what I ſaid of</hi> Mad<g ref="char:EOLhyphen"/>docks, <hi>yet I hope, that ſince his neighbours do juſtifie him to be a lying Knave, you will doe your ſelfe and me ſo much right as to turn him out of your ſervice, and in doing ſo, you will engage me to continue,</hi>
+                  </p>
+                  <closer>
+                     <signed>Your obliged Friend and faithfull Servant,
+JOHN GRIFFITH.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Sir <hi>Hugh Caulveley</hi> ſent me this anſwer, or much to this purpoſe.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>SIR, <hi>I wonder you will trouble your ſelfe about my Servants, it is to no purpoſe; for I will keep what Servants I pleaſe in ſpite of your teeth.</hi>
+                  </p>
+                  <closer>
+                     <signed>HUGH CAULVELEY.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>THis anſwer I took to be as it was, that is, too uncivill to ſend to any Gentle<g ref="char:EOLhyphen"/>man, having never deſerved it at his hands: whereupon I ſent for a noble friend of mine, Colonell <hi>Iohn Booth,</hi> and after that I had acquainted him with the buſi<g ref="char:EOLhyphen"/>neſſe, I deſired him to goe to Sir <hi>Hugh Caulveley,</hi> and to tell him that his letter was ſo uncivill, that I could not chuſe but reſent it, and that I did deſire the per<g ref="char:EOLhyphen"/>formance of one of theſe two things, that was either to turne away thoſe two Rogues <hi>Dod</hi> and <hi>Maddocks</hi> or to fight with me; Sir <hi>Hugh</hi> ſent me this anſwer by my Friend, that is, that hee would not fight with me; nor could hee poſſibly part with theſe men, unleſſe he were undone; for his excuſe was, that none but them underſtood the managing of his eſtate: but gave me leave to take what courſe I pleaſed with them; <hi>Dod</hi> going to London about Sir <hi>Hughs</hi> occaſions, I having notice of it, I writ to Mr. <hi>Briſcow</hi> Clark of New gate, and acquainted him both of his being in towne, and what a notorious Papiſt he was (if not a Prieſt) and that he had (during this war) beene conſtantly in arms againſt the Parliament. Upon this information Mr. <hi>Briſcow,</hi> cauſed him to be apprehended in London, and Mr. <hi>Briſcow</hi> being out of the way, he made an eſcape by one meanes or other from the Purſuivants, and ſo got againe into the Countrie to his Maſter Sir <hi>Hugh Caulveley,</hi> who lived then at his houſe in Cheſhire, called Sayton, and within a day or
+<pb n="5" facs="tcp:161603:4"/>
+two after the time <hi>Dod</hi> came down, I was to run my Grey-hound againſt a Grey-hound bitch of one <hi>M. Duttons</hi> of <hi>Hatton.</hi> The appointment was made a fortnight before, nor did I expect <hi>Dods</hi> being in the Countrey untill I came, a fryday morning near <hi>Sayton,</hi> which was the day and place that we had appointed to meet at: but com<g ref="char:EOLhyphen"/>ming within halfe a mile of the town, I met a ſervant of my own, who comming back from the Poaſt houſe at <hi>Chriſelton</hi> with my letters, as he was paſſing through <hi>Sayton,</hi> (which was the direct Road from <hi>Chriſelton</hi> to my houſe) he met (as he ſaid to me) with one <hi>Iohn Hoskins</hi> a retainer of Sir <hi>Hugh Caulveleys,</hi> and he whiſpers him in the Eare, as if it had beene a great ſecret, and deſired him to tell me that I ſhould not by any meanes come into the town; for <hi>Dod</hi> was newly come from <hi>London,</hi> and had brought with him a warrant from the Generall Sir <hi>Thomas Fairfax</hi> for to diſarme me, and that there was twenty or thirty men with muskets and other armes for to ceaſe upon me if that I came into <hi>Sayton,</hi> and my ſervant ſwore to me that he ſaw above twenty luſty young fellows, whoſe faces he did not know, and deſired me not to goe thither, unleſſe I intended to be either hurt or killed: but for all my mans diſcourſe, and the meſſage that was brought me, I re<g ref="char:EOLhyphen"/>ſolved (knowing my ſelf free from any guilt) either to get into <hi>Sayton</hi> or to pe<g ref="char:EOLhyphen"/>riſh, rather then that it ſhould be ſaid that I promiſed Gentlemen to meet them, and afterwards that I durſt not come; ſo I took my horſe and rid up into the middle of the town, but no man durſt offer to diſarm me, or to meddle with me: So I went preſently a courſing, and moſt of thoſe men that were ſent to diſarme me, came along into the fields with me, and ſome of them told me that Sir <hi>Hugh</hi> and <hi>Dod</hi> had ſent for them that morning, and told them that they had a warrant from the Generall, and deſired their aſſiſtance: Theſe honeſt men deſired to ſee it, and Sir <hi>Hugh</hi> and <hi>Dod</hi> having none of ſhew them, they refuſed to meddle with me at all, and I underſtanding the malitious plot which they intended againſt me, I purpoſely to vex Sir <hi>Hugh</hi> and his Champion <hi>Dod,</hi> ſent for a fidler, and during the time my fellow Courſers were drinking a cup of Ale, we having run our Match: I and my Fidler rid up to <hi>Sayton,</hi> and from one end of the towne to the other, I made the Fidler play a tune called <hi>Roger</hi> of <hi>Caulveley:</hi> This I did to ſhew, that I did not fear to be diſarmed by them, and they may thank themſelves for it, for if they had not firſt endeavoured to miſchiefe me, I ſhould not trouble my ſelfe to have vext them. Nay Sir <hi>Hugh</hi> was ſo malitious that no body in <hi>Sayton</hi> durſt let me come into their houſes, although there were divers Ale-houſes, for Sir <hi>Hugh Caulveley</hi> threatned either to turne them out of their houſes, or to ſet their houſes a fire about their eares, if they did ſuffer me to drink in any of them: Beſides there was parti<g ref="char:EOLhyphen"/>cular notice taken of thoſe men which went a Courſing with me, and thoſe which were his tenants, he checked them the next day to ſome purpoſe ſince that time I met with Major <hi>Haughton,</hi> Sir <hi>Hugh Caulveleys</hi> Brother in-law, who told me that if I had ſtept then, (when the Fidler was with me) but one yard or two out of the high way, that they intended to have ſhot at me with a dozen muskettiers out of Sir <hi>Hugh Caulveleys</hi> houſe; you may gueſs by this what continuall mallice Sir <hi>Hugh</hi> and his ſervant <hi>Dod</hi> had againſt me: when this plot fayled them, Sir <hi>Hugh</hi> tries an other way to miſchiefe me as I was credibly informed, and as it appeared after<g ref="char:EOLhyphen"/>wards by <hi>Dods</hi> diſcourſe, that was, he ſent into <hi>Lancaſhire</hi> for his brother-in-law one Major <hi>Houghton,</hi> and one Captaine <hi>Houghton,</hi> two gallant Gentlemen, thinking to have engaged them in a Quarrel againſt me: but he failed in his deſigne, for the Gen<g ref="char:EOLhyphen"/>tlemen were ſo noble and diſcreet, that they would not quarrel with any man with<g ref="char:EOLhyphen"/>out
+<pb n="6" facs="tcp:161603:5"/>
+juſt occaſion, and eſpecially with me that was a thouſand times readier to ſerve either of them, then to give them the leaſt juſt occaſion of offence; when Dod ſaw that there was no likely hood of a quarrell betwixt us, then he reported about the Countrey that he had brought me a Challenge from Major <hi>Haughton,</hi> and that I durſt not fight with him: but refuſed to give him a meeting: and this was not ſufficient, but Dod likewiſe reported in all companies where he came, that I was a baſe cowardly fellow, and that it was a ſhame for any Gentleman to keepe mee company: and one Captain Waulthers ſtanding by, did not onely reprove him for talking ſo baſely of me, but had likewiſe beaten him, if the company that was by had not ſtopt betwixt them: and I am confident Captaine Waulthers will juſtifie this to be true, whenſoever he is called upon. Then let the World judge whether I had not reaſon to recent it.</p>
+            <p>But I hearing that Major <hi>Gilbert Haughton</hi> was returning out of Cheſhire into Lancaſhire, I went purpoſely to a place one night being the 23 of January where he and Captain <hi>Houghton,</hi> was to paſſe by the next day, with no other intent, but to hin<g ref="char:EOLhyphen"/>der miſtakes from hapning betwixt us; and to give him thankes for former favours which I had received from him, and to aſſure him that I was then as much his ſer<g ref="char:EOLhyphen"/>vant as ever I had been before, in deſpight of thoſe that thought to make us foes: ſo we met friends and parted very good friends, which I beleeue was not pleaſing news either to <hi>Dod</hi> or to S. <hi>Hugh Caulveley:</hi> and after I parted from Major <hi>Houghton,</hi> the ſame evening I went through Sayton (being the direct way to my houſe) where I ſtayed a while, and afterwards reſolved to go homewards: my horſes I gave to my Groom and my Footman to lead as far as the Church, purpoſely to eaſe the Mare I rid upon, and my ſelfe, for the lane was very durty and my Mare lame, being new<g ref="char:EOLhyphen"/>ly prickt in her fore-foot, which made me willing to have her led to that place, and I with the other two Gentlemen which were with mee reſolved to walke to that place, where I appointed my ſervants to ſtay for me, the fields being very dry, and a pleaſant and a uſuall walke, ſo our horſes being gone, we went the uſuall foot-way which goes juſt by Sir <hi>Hugh Caulveleys</hi> gate, and no ſooner were wee come over the ſtile, but (contrary to my expectation,) I perceived <hi>Dod</hi> comming towards us, who might eaſily have got out of the way if it had pleaſed him: but he came va<g ref="char:EOLhyphen"/>pouring with a great ſtaffe in his hand purpoſely (as I thought then) to out-dare me: but ſince that time I heard that hee had been to viſit ſome friends in the coun<g ref="char:EOLhyphen"/>trey, at a town called Hanley, ſome two miles from <hi>Sayton<g ref="char:punc">▪</g>
+               </hi> which was more then I knew at that inſtant, but ſeeing him ſo armed I drew my ſword thinking to get be<g ref="char:EOLunhyphen"/>twixt him and the gate, and ſo to have carried him away with us, and to have ſent him ſafe up to London, from whence he broke priſon: but wee both being ſome<g ref="char:EOLhyphen"/>thing neare the gate, we ſtrove for it, and it was my fortune, the truth is, firſt to get under it, and <hi>Dod</hi> finding that there was no going back, without danger of being carryed away, made him as it ſeems reſolve to make his way, thinking his Maſters houſe his ſecureſt place, and without delaying any time, he up with his ſtaffe &amp; laid at my head as hard as he could drive; but I bore it off with much adoe, although my ſword was extreamly bent with the blow, as <hi>Peter Harris</hi> Sir <hi>Hugh Caulveleys</hi> groom can witneſſe that he ſaw my ſword bent, although hee ſaw not the ſtroake, for <hi>Dod</hi> ſtrook at me before <hi>Peter Harris</hi> or any other came in ſight, and after I had received his ſtroak, I ſtruck at him againe, and hit him either on the head or on the arme, I know not well whether, but we cloſed and ſo fell down together, he holding mee by the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the head, as I can prove by a friend of his, unto whom (ſince that
+<pb n="7" facs="tcp:161603:5"/>
+day) <hi>Dod</hi> made his brag<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> how he then beat me, and pluckt me by the haire. I de<g ref="char:EOLhyphen"/>ſired him then to looſen his hands out of my hair, but inſtead of doing it, he cries out for helpe; there being divers ſervants and workmen about the houſe, and the Towne cloſe by, which were moſt of them Sir <hi>Hugh Caulveleys</hi> Tennants. The ſer<g ref="char:EOLhyphen"/>vants and workmen inſtantly came to aſſiſt him, which the two Gentlemen that were with me perceiving it, the one thinking to make him looſe his hold, ſhot a piſtol at him, that was onely charged with beaten Pepper; but that would doe no good, nor make him let goe, and the other Gentleman finding an abſolute neceſſity of our getting away, he clapt a pocket piſtoll to <hi>Dods</hi> Buttocks, that was onely charged with hail-ſhot, not with any intent to kill him, but onely to frighten him, ſo as to make him looſe his hands from my haire, which <hi>Dod</hi> did as ſoone as he was ſhot, ſo I and my two friends haſtened away, (as it concerned us ſo to do) for the ſervants and workmen that were about the houſe (as it I heard afterwards, and as I did then ſuſpect) came with a fowling peece, and divers others armes, for to aſſault us, if we had ſtayed never ſo little longer; At my comming away I took up <hi>Dods</hi> ſtaff, and carried it away with me, and I left my own Cane and my hatband be<g ref="char:EOLhyphen"/>hinde me: and before we got to our horſes, we could heare divers cry, you Rogues, Rogues, come back if you dare; and indeed we having no deſire to be beaten, rid away, and reſolved to let them call us what they pleaſed: It was (upon my ſalva<g ref="char:EOLhyphen"/>tion) not my intention to kill him, and the world may eaſily judge that I might as eaſily a thruſt him with my Rapier, as cut him; <hi>Dod</hi> having firſt aſſaulted me with his ſtaffe, and if it had not been for my ſword, he might have knock out my braines, ſo violent a blow he made at me. Beſides, if we had intended to kill him, we ſhould have charged our piſtols rather with bullets, then with beaten pepper, ſuch ſmall ſhot as would hardly kill a ſparrow, and for the Gentleman that did it, he never ſaw <hi>Dod</hi> before that time, nor if <hi>Dod</hi> were living, doe I beleeve could he know him again, if he ſhould meet him: Therefore it could be no intended ma<g ref="char:EOLhyphen"/>lice in him, having never ſpoken to him, or ſeen him before, and how a Jury can find this murther, I admire, for England is not a countrey to hire Braves for to kill men, or if it were, doth any body beleeve, that any Gentleman would undertake ſo wicked an imployment, that is both odious to God &amp; man? nay in Italy it ſelf where Braves are uſed, what are they that do it? only the ſcum and raſcallity of the people, and I hope no Engliſh man has the heart to thinke, that a Gentleman (upon any tearmes whatſoever,) would undertake to murther a man without any occaſion given him: And indeed it grieves me to finde that our Engliſh nation affords ſuch a crew of perjured villaines, I muſt needs tearme them ſo, having no more co<g ref="char:EOLhyphen"/>lour or ground for their verdict, but what you ſee in this paper: I finde the Engliſh proverb verified, that is, Like maſter, like man; and indeed their Land lord, Sir <hi>Hugh Caulveley</hi> is a moſt notorious one, as I can make it appeare by divers, which have heard him (as well as my ſelfe,) ſweare to any thing almoſt, and performe nothing; and I cannot but pitty theſe ignorant tenants of his, who it ſeemes thinke themſelves bound to ſweare any thing that their Land lord would have them to doe. And I have heard Sir <hi>Hugh Caulveley</hi> often ſay, that a man ſhould never be powerfull in his countrey, unleſſe he would keep knaves about him, to ſwear for their ma<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers advantage. And more he ſaid to me, that he had divers which for <hi>Rock<g ref="char:EOLhyphen"/>myjock</hi> (as Sir <hi>Hugh Caulveley</hi> tearmes it,) which is money in his <hi>Engliſh,</hi> that would ſweare almoſt any thing he would have them, and indeed I beleeve that either his <hi>Rockmyjock,</hi> or promiſes, if not performances of leaſes, were not ſpared
+<pb n="6" facs="tcp:161603:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:161603:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:161603:7"/>
+for the obtaining of this Jury and Verdict. I and the Gentlemen which were with me, were ſo farre from thinking the wound mortall, that we ſtayed in the countrey a week after this accident happened, nor did we think it poſſible he could die of that hurt, or elſe we would have got our friends ſo to look after the buſineſſe, that Sir <hi>Hugh Calveley</hi> ſhould not have packt (as he did) a Jury of Devils, to accompliſh his abundant malice againſt me; when <hi>Iames Dunne,</hi> who is both a tenant and retai<g ref="char:EOLhyphen"/>ner to Sir <hi>Hugh Caulveley,</hi> came and told me on Sunday at noon, being the 30 of January 1648. that the day before, being Saturday, <hi>Dods</hi> father came to his houſe, and told <hi>Dunne</hi> that the Surgeons told him that his ſon could hardly live till the next morning. But withall, <hi>Dods</hi> Father told <hi>Iames Dunne,</hi> that his ſonne had cleared Mr <hi>Griffith,</hi> and that it was not he that had killed him, but that it was one Lieutenant <hi>Davis</hi> that did it; but withall, he ſaid that his ſonne forgave us all. Then how can they make it wilfull murther, when Lieutenant <hi>Davis</hi> never ſaw him or ſpoke to him before that time, nor ever had any difference with him. But put the caſe that Lievtenant <hi>Davis</hi> had intended to kill him, doe not you believe, that he (being a Souldier) would haue rather ſhot him into the head, body, or belly, the<g ref="char:cmbAbbrStroke">̄</g> into the buttocks, knowing certainly thoſe parts to be more mortall places then the Arſe: Therefore let the world judge how malitious and blood-thirſty Jurers thoſe are, to give ſo unjuſt, and ſo unconſcionable a Verdict as I heare they have done; God for<g ref="char:EOLhyphen"/>give them for it, for they extreamely ſtand in need of it.</p>
+            <p>When in the firſt place you may perceive by what I have here ſet down, how that <hi>Dod</hi> and his Maſter Sir <hi>Hugh Caulveley</hi> endeavoured ſeverall wayes to miſchiefe me, if not to take away my life. Secondly, how that I did not turne the poynt of my Ra<g ref="char:EOLhyphen"/>pier againſt <hi>Dod,</hi> as it was in my power, although I was firſt aſſaulted by him, and laſt of all I beſeech you conſider that <hi>Dod</hi> acquitted me of his death; upon which conſiderations and divers others it is eaſie to conclude how extreamly I ſuffer by the partiallity of a ſimple Jury, conſiſting of fearfull Tennants, ſwayed by the influence of a Land-lord to abandon their honeſty to my diſadvantage: Thus much I thought fit to publiſh for my Vindication, and for ſatisfaction not onely of my friends, but of all other people of honour and honeſty, as I doubt not there are many that will peruſe this paper with an impartiall eye, and will afford me a juſt if not a favoura<g ref="char:EOLhyphen"/>ble conſtruction, which is all that I deſire or crave at their hands.</p>
+            <closer>
+               <signed>JOHN GRIFFITH of <hi>Llyne.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 12. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="9" facs="tcp:161603:7"/>
+            <head>The Reaſons of my going out of the Countrey, were theſe:</head>
+            <p>
+               <hi>Firſt,</hi> the ſickneſſe being at <hi>Cheſter,</hi> it was uncertaine when the Aſſizes would be, there being none a long time before, nor any ſpeech, or likely<g ref="char:EOLhyphen"/>hood of any, when I came away.</p>
+            <p>
+               <hi>Secondly,</hi> The Accident happening under Sir <hi>Hugh Caulveleys</hi> gate, and amongſt his owne Tennants, I knowing him to be ſo malitious a villain, that I was ſure that he would (if it were poſſible) pack a Jury, and make it unbaylable, as I heare he hath done; which Verdict (if the Act had been done in any other place) I am confident would not have given ſo, nor was it likely that any (but either he or his Tenants) could have done ſo un<g ref="char:EOLhyphen"/>juſt a thing. Then let the world judge, whether I had not reaſon to ſecure my ſelfe, untill I could have a certaine time of tryall, rather then to lye in priſon (God knowes how long) and ſo to be ſubject to the malice of Sir <hi>Hugh Caulveley,</hi> who is a man, that has neither Honour, Honeſty, nor Conſcience, as all they that know him can juſtifie, as well as my ſelfe.</p>
+            <p>
+               <hi>Thirdly,</hi> Sir <hi>Hugh Caulveley</hi> having made his brags, that he would ſell his houſe (called <hi>Llee</hi> Hall) nay part with all his whole eſtate, rather then not to be revenged of me. I beſeech you therefore conſider, whether I had not reaſon to take care of my ſelfe and to keepe out of priſon, leſt during my reſtaint, he and my enemies at London (as I have divers and powerfull ones too) might joyne together and ſo ruine me right or wrong; as they did almoſt once upon leſſe ground or colour for it, and I know Sir <hi>Hugh Caulveley</hi> to be ſo arrant a Devill, that he will leave no way untryed, rather then not to deſtroy me: for he ſent his ſervant to one Maſter <hi>Baule</hi> in the Countrey to deſire him to joyne with him, to petition the Parliament againſt me: and why ſhould not I as well ſuſpect, that he will ſend up to <hi>London</hi> to thoſe that are my adverſaries there, and ſo make a ſtrong party againſt me? which reaſons indeed made me ſhun his malice for a while, untill I could make it appeare palpable unto the world, as I hope this relation will doe; which (upon my ſalvation) is every <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ittle of it as true as it is poſſible for any thing to be related.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
